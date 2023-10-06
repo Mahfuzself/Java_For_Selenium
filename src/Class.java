@@ -13,5 +13,6 @@ public class Class {
     public static void main(String[] args) {
         myClass myObj = new myClass();
         System.out.println(myObj.sum());
+        System.out.println(myObj.sum());
     }
 }
